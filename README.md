@@ -1,7 +1,7 @@
 # web-app-on-docker
 Deployed a web app on Docker Container using nginx server
 
-STEP 1 - I downloaded a website from the externel website along  with its source code for.
+STEP 1 - I downloaded a website from the externel website along  with its source code.
 
 STEP 2 - Then I created a dockerfile and build its image
 
